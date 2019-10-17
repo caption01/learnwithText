@@ -6,7 +6,7 @@
     [x] HW 1
         -   add class to h1.
 
-![]()
+![](https://github.com/caption01/learnwithText/blob/master/daily/day1/day1Record/ch2_hw1.JPG)
 
     [x] HW 2
         -   Top-Down Tree.
@@ -20,4 +20,4 @@
         1.  babel is compliler if no have it browser can't under what is it.
         2.  <skipt this question>
 
-![]()
+![](https://github.com/caption01/learnwithText/blob/master/daily/day1/day1Record/JSXhelloWorld.JPG)
