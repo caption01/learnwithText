@@ -6,29 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-    <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
     <title>Pro MEAN Stack</title>
 </head>
 <body>
     
     <div id="content"></div>
 
-        <script type="text/babel">
-        
-            // ==========first React Create==========
-            // const element = React.createElement('div', {title: 'Outer div'},
-            //     React.createElement('h1', {className: 'header'}, 'Hello World!')
-            // );
-            
-            const element = (
-                <div title="Outer div">
-                    <h1> Hello World! </h1>
-                </div>
-            );
-
-            ReactDOM.render(element, document.getElementById('content'));
-        </script>
-
+    <script type="text/babel" src="./src/App.js" ></script>
 
 </body>
 </html>
