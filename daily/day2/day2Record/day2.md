@@ -11,3 +11,5 @@
     [x] test run server.js
 
 ![](https://github.com/caption01/learnwithText/blob/master/daily/day2/day2Record/image/projectSetup.JPG) 
+
+    [x] create server sub-directory.
